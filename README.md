@@ -1,6 +1,8 @@
 
 # インストール
 ```
+git clone https://github.com/mwakkiy/my-react-starter-kit.git my-app
+cd my-app
 npm install
 ```
 
